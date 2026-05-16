@@ -54,7 +54,6 @@ I design and implement scalable backend systems with over 6 years of commercial 
 - 📈 **Optimization & Scalability:** Data modeling, search engine integrations, and a strict focus on clean, testable code.
 
 ### 📬 Connect With Me
-### 📬 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://szymonwojaczek.pl/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-wojaczek-1b0b0317b/)
