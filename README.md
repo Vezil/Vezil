@@ -49,10 +49,17 @@ I design and implement scalable backend systems with over 6 years of commercial 
 
 
 ### 🚀 What I Deliver
-- **AI Solutions:** Designing AI systems to automate sales and operational processes.
-- **High-Availability Systems:** Architecture for e-commerce platforms and complex POS/payment integrations.
-- **Optimization & Scalability:** Data modeling, search engine integrations, and a strict focus on clean, testable code.
+- 🧠 **AI Solutions:** Designing AI systems to automate sales and cut operational costs.
+- ⚡ **High-Availability Architecture:** Building robust e-commerce platforms and complex POS/payment integrations.
+- 📈 **Optimization & Scalability:** Data modeling, search engine integrations, and a strict focus on clean, testable code.
 
 ### 📬 Connect With Me
-- **Portfolio:** [szymonwojaczek.pl](https://szymonwojaczek.pl/)
-- **LinkedIn:** [Szymon Wojaczek](https://www.linkedin.com/in/szymon-wojaczek-1b0b0317b/)
+<p align="left">
+<a href="https://szymonwojaczek.pl/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/szymon-wojaczek-1b0b0317b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</p>
+
