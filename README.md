@@ -4,11 +4,12 @@
 
 I design and implement scalable backend systems with over 6 years of commercial experience. My focus is on high performance, distributed systems, and AI integration. I don't just write code. I deliver architecture that handles heavy loads and drives real business value.
 
-### 🛠 Tech Stack & Tools
-- **Backend & Architecture:** Node.js, TypeScript, Express, Nest, TDD, DDD
+### 🛠 Core Tech Stack & Specialization
+- **Primary Focus:** Node.js, TypeScript, Express, Nest, TDD, DDD
+- **Additional Languages:** PHP, Laravel, Python, Flask/FastAPI, C++
 - **Frontend:** HTML/CSS/SCSS/Tailwind, TypeScript, Vue.js, Vuex/Pinia, Nuxt, React, Redux/MobX
-- **Databases & Caching:** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Infrastructure:** Git, Docker, Kubernetes, Sentry
+- **Databases & Caching:** MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, Elasticsearch
+- **DevOps & Observability:** Git, Docker, Kubernetes, Sentry, Azure
 
 ### 🚀 What I Deliver
 - **AI Solutions:** Designing AI systems to automate sales and operational processes.
