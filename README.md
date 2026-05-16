@@ -40,7 +40,7 @@ I design and implement scalable backend systems with over 6 years of commercial 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-#### 🚀 DevOps & Observability
+#### ♾️ DevOps & Observability
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -54,12 +54,8 @@ I design and implement scalable backend systems with over 6 years of commercial 
 - 📈 **Optimization & Scalability:** Data modeling, search engine integrations, and a strict focus on clean, testable code.
 
 ### 📬 Connect With Me
-<p align="left">
-<a href="https://szymonwojaczek.pl/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/szymon-wojaczek-1b0b0317b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
+### 📬 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://szymonwojaczek.pl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-wojaczek-1b0b0317b/)
 
