@@ -56,10 +56,10 @@ I design and implement scalable backend systems with over 6 years of commercial 
 ### 📬 Connect With Me
 <p align="left">
 <a href="https://szymonwojaczek.pl/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/szymon-wojaczek-1b0b0317b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
